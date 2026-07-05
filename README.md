@@ -57,3 +57,9 @@ Me chamo Weslley de Jesus Coelho, tenho 21 anos e sou de São Paulo. Concluí o 
 />
 
 ---
+
+### 🎓 Certificados, Cursos e Conquistas
+
+[![Descobrir a análise de dados](https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft.svg)](https://learn.microsoft.com/api/achievements/share/pt-br/WeslleyCoelho-0084/XP4NPXHY?sharingId=D3F9872F5DC4F4FF)
+
+---
