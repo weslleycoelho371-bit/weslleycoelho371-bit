@@ -60,6 +60,10 @@ Me chamo Weslley de Jesus Coelho, tenho 21 anos e sou de São Paulo. Concluí o 
 
 ### 🎓 Certificados, Cursos e Conquistas
 
-[![Descobrir a análise de dados](https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft.svg)](https://learn.microsoft.com/api/achievements/share/pt-br/WeslleyCoelho-0084/XP4NPXHY?sharingId=D3F9872F5DC4F4FF)
-
+<a href="https://learn.microsoft.com/api/achievements/share/pt-br/WeslleyCoelho-0084/XP4NPXHY?sharingId=D3F9872F5DC4F4FF" target="_blank">
+  <img src="https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft.svg" alt="Descobrir a análise de dados" width="110">  
+    
+<a href="https://learn.microsoft.com/api/achievements/share/pt-br/WeslleyCoelho-0084/U7VPDP63?sharingId=D3F9872F5DC4F4FF" target="_blank">
+  <img src="https://learn.microsoft.com/training/achievements/get-started-power-bi.svg" alt="Introdução à análise de dados usando as ferramentas do Power BI" width="110">  
+  
 ---
