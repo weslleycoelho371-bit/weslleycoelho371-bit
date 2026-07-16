@@ -60,10 +60,12 @@ Me chamo Weslley de Jesus Coelho, tenho 21 anos e sou de São Paulo. Concluí o 
 
 ### 🎓 Certificados, Cursos e Conquistas
 
-<a href="https://learn.microsoft.com/api/achievements/share/pt-br/WeslleyCoelho-0084/XP4NPXHY?sharingId=D3F9872F5DC4F4FF" target="_blank">
-  <img src="https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft.svg" alt="Descobrir a análise de dados" width="110">  
-    
-<a href="https://learn.microsoft.com/api/achievements/share/pt-br/WeslleyCoelho-0084/U7VPDP63?sharingId=D3F9872F5DC4F4FF" target="_blank">
-  <img src="https://learn.microsoft.com/training/achievements/get-started-power-bi.svg" alt="Introdução à análise de dados usando as ferramentas do Power BI" width="110">  
-  
+### *Trilha Microsoft Power Platform Analista de Dados Iniciante*
+
+<a href="https://learn.microsoft.com/api/achievements/share/pt-br/WeslleyCoelho-0084/XP4NPXHY?sharingId=D3F9872F5DC4F4FF" target="_blank"><img src="https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft.svg" alt="Descobrir a análise de dados" width="40"></a>
+<a href="https://learn.microsoft.com/api/achievements/share/pt-br/WeslleyCoelho-0084/U7VPDP63?sharingId=D3F9872F5DC4F4FF" target="_blank"><img src="https://learn.microsoft.com/training/achievements/get-started-power-bi.svg" alt="Introdução à análise de dados usando as ferramentas do Power BI" width="40"></a>
+<a href="https://learn.microsoft.com/api/achievements/share/pt-br/WeslleyCoelho-0084/VSGUXR3M?sharingId=D3F9872F5DC4F4FF" target="_blank"><img src="https://learn.microsoft.com/training/achievements/introduction-end-analytics-use-microsoft-fabric.svg" alt="Introdução à análise de ponta a ponta usando Microsoft Fabric" width="40"></a>
+<a href="https://learn.microsoft.com/pt-br/users/weslleycoelho-0084/achievements/9a2e53fu" target="_blank"><img src="https://learn.microsoft.com/training/achievements/overview-data-analysis-power-bi.svg" alt="Introdução à análise de dados da Microsoft" width="40"></a>
+<a href="https://learn.microsoft.com/api/achievements/share/pt-br/WeslleyCoelho-0084/U7VPDP63?sharingId=D3F9872F5DC4F4FF" target="_blank"><img src="https://learn.microsoft.com/training/achievements/get-started-power-bi.svg" alt="Introdução à análise de dados usando as ferramentas do Power BI" width="40"></a>
+
 ---
